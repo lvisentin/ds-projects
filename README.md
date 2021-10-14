@@ -4,6 +4,7 @@
 
 ### Existing notebooks
 
-- [x] Compound interest with contributions calculator
+- [x] Compound interest with contributions calculator.
+- [x] An imaginary stocks wallet comparing the performance with some indicators.
 
 All the notebook were made using python, pandas and google colab.
